@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30f27787-8e05-4490-b813-d03180f1f423" name="Default Changelist" comment="" />
+    <list default="true" id="30f27787-8e05-4490-b813-d03180f1f423" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hospital.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.test">
     <configuration name="hospital main file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="vivek" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,8 +54,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vivek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.hospital main file" />
       </list>
     </recent_temporary>
@@ -61,17 +93,29 @@
       <option name="presentableId" value="Default" />
       <updated>1593176993750</updated>
     </task>
+    <task id="LOCAL-00001" summary="new one">
+      <created>1593181711935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593181711935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new one" />
+    <option name="LAST_COMMIT_MESSAGE" value="new one" />
   </component>
   <component name="WindowStateProjectService">
     <state x="685" y="293" key="#Notifications" timestamp="1593177745658">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="685" y="293" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1593177745658" />
-    <state x="427" y="4" key="CommitChangelistDialog2" timestamp="1593177138486">
+    <state x="427" y="0" key="CommitChangelistDialog2" timestamp="1593181710481">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="427" y="4" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1593177138486" />
+    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1593181710481" />
     <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1593181395387">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -80,30 +124,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="624" y="350" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1593179506979" />
-    <state x="678" y="328" key="Github.ShareDialog" timestamp="1593179383056">
+    <state x="678" y="328" key="Github.ShareDialog" timestamp="1593181743806">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="678" y="328" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1593179383056" />
+    <state x="678" y="328" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1593181743806" />
     <state x="612" y="132" key="Github.UntrackedFilesDialog" timestamp="1593177557032">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="612" y="132" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1593177557032" />
-    <state width="1601" height="230" key="GridCell.Tab.0.bottom" timestamp="1593177979474">
+    <state width="1601" height="344" key="GridCell.Tab.0.bottom" timestamp="1593264947201">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593177979474" />
-    <state width="1601" height="230" key="GridCell.Tab.0.center" timestamp="1593177979474">
+    <state width="1601" height="344" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593264947201" />
+    <state width="1601" height="344" key="GridCell.Tab.0.center" timestamp="1593264947201">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593177979474" />
-    <state width="1601" height="230" key="GridCell.Tab.0.left" timestamp="1593177979458">
+    <state width="1601" height="344" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593264947201" />
+    <state width="1601" height="344" key="GridCell.Tab.0.left" timestamp="1593264947201">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593177979458" />
-    <state width="1601" height="230" key="GridCell.Tab.0.right" timestamp="1593177979474">
+    <state width="1601" height="344" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593264947201" />
+    <state width="1601" height="344" key="GridCell.Tab.0.right" timestamp="1593264947201">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1601" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593177979474" />
+    <state width="1601" height="344" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593264947201" />
     <state x="602" y="150" key="RollbackChangesDialog" timestamp="1593178168157">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -112,10 +156,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1593181383560" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1593177805105">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1593183443950">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593177805105" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593183443950" />
     <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1593179444368">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
