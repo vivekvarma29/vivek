@@ -2,7 +2,7 @@ from Hospital import *
 
 def main():
         while  1:
-            num = int(input("----\nenter 1 for Admission:\nenter 2 for Bill Payment:"))
+            num = int(input("----\nEnter 1 for Admission:\nEnter 2 for Bill Payment:"))
             if num == 1:
                 object = Hospital()
                 object.Create_Table()

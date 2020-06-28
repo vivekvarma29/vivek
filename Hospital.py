@@ -39,8 +39,6 @@ class Hospital:
         print("Record is Added")
         paitentlist.clear()
         datetimelist.clear()
-        print("Added")
-
 
 class CustomerSlip(Hospital):
     def CreateTable(self):
