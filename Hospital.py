@@ -73,7 +73,3 @@ class CustomerSlip(Hospital):
         empty_list.clear()
         datetimelist.clear()
         paitent.clear()
-        cursor.execute("delete from customerslip where amountpaidRs = 100")
-        db.commit()
-
-
